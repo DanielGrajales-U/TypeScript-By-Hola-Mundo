@@ -1,22 +1,24 @@
-# Curso de TypeScript
+<div align="center">
+  <h1>Curso de TypeScript 🔥🔥</h1>
+</div>
 
 ¡Bienvenido al repositorio del Curso de TypeScript! Aquí encontrarás recursos y lecciones que cubren los fundamentos y aspectos avanzados de TypeScript, un superset de JavaScript que añade tipos estáticos a tu código.
 
-## ¿Qué es TypeScript?
+## ¿Qué es TypeScript? 🤔
 
 TypeScript es un lenguaje de programación que compila a JavaScript. Es una herramienta potente que proporciona tipado estático, lo que significa que puedes definir tipos para tus variables, funciones y objetos. Esto ayuda a detectar errores en tiempo de compilación y mejorar la calidad y mantenimiento del código.
 
-## ¿Por qué TypeScript?
+## ¿Por qué TypeScript? 🧐
 
 Los exploradores web no entienden directamente el código escrito en TypeScript. Para solucionar esto, se utiliza un compilador intermedio que transforma todo el código TypeScript a JavaScript, un lenguaje que los navegadores comprenden. Esto permite que los desarrolladores escriban código utilizando las características avanzadas de TypeScript mientras se aseguran de que el resultado final sea ejecutable en cualquier navegador.
 
-## Superando el Desafío Inicial
+## Superando el Desafío Inicial 🏁
 
 Es normal sentirse restringido al principio al programar en TypeScript, ya que el lenguaje impone un conjunto más estricto de reglas y expectativas. Sin embargo, este enfoque más riguroso es una fortaleza, ya que ayuda a prevenir errores comunes y mejora la legibilidad del código.
 
 Motivamos a aquellos que están dando sus primeros pasos en el mundo de la programación a abrazar el desafío de aprender TypeScript. Aunque puede parecer intimidante al principio, los beneficios de la escritura de código más segura y mantenible se vuelven evidentes rápidamente. A medida que avances en el curso, comenzarás a apreciar cómo TypeScript facilita la identificación y corrección temprana de errores, lo que ahorra tiempo y esfuerzo en el desarrollo a largo plazo.
 
-### Windows
+### Windows 
 
 Para instalar TypeScript a nivel global en Windows, puedes utilizar npm (Node Package Manager), que se instala con Node.js. Abre tu terminal y ejecuta el siguiente comando:
 
@@ -29,14 +31,14 @@ npm install -g TypeScript
 sudo npm install -g TypeScript
 ```
 
-### Configuracion
+### Configuracion ⚙️
 Para crear el archivo de configuracion de TypeScript debemos correr en la terminal el comando
 
 ```bash
 tsc --init
 ```
 
-### Ejecucion de archivos TypeScript
+### Ejecucion de archivos TypeScript 💣
 
 ```bash
 tsc nombre-del-archivo.ts
@@ -48,7 +50,7 @@ node nombre-del-archivo.ts
 
 Como configurar [TypeScript](https://www.youtube.com/watch?v=Cj-tQPybO6o)
 
-## Contenido del Curso
+## Contenido del Curso 📦
 
 ### 1. Introducción a TypeScript
 En esta sección, exploraremos los conceptos básicos de TypeScript, cómo configurar un proyecto, y las ventajas de utilizar este lenguaje en comparación con JavaScript.
